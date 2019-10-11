@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+  <projectRefrence Include="..\MadPay724.UtilityLayer\MadPay724.UtilityLayer.csproj"/>
+  </ItemGroup>
+
+</Project>

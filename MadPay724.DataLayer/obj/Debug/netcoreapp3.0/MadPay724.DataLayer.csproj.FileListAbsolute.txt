@@ -1,0 +1,7 @@
+F:\MadPay724\MadPay724\MadPay724.DataLayer\bin\Debug\netcoreapp3.0\MadPay724.DataLayer.deps.json
+F:\MadPay724\MadPay724\MadPay724.DataLayer\bin\Debug\netcoreapp3.0\MadPay724.DataLayer.dll
+F:\MadPay724\MadPay724\MadPay724.DataLayer\bin\Debug\netcoreapp3.0\MadPay724.DataLayer.pdb
+F:\MadPay724\MadPay724\MadPay724.DataLayer\obj\Debug\netcoreapp3.0\MadPay724.DataLayer.AssemblyInfoInputs.cache
+F:\MadPay724\MadPay724\MadPay724.DataLayer\obj\Debug\netcoreapp3.0\MadPay724.DataLayer.AssemblyInfo.cs
+F:\MadPay724\MadPay724\MadPay724.DataLayer\obj\Debug\netcoreapp3.0\MadPay724.DataLayer.dll
+F:\MadPay724\MadPay724\MadPay724.DataLayer\obj\Debug\netcoreapp3.0\MadPay724.DataLayer.pdb
